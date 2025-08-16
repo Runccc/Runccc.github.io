@@ -1,0 +1,6 @@
+{
+  "latestVersion": "0.0.0",
+  "releaseNotes": "1. 修复了xxx bug。\n2. 新增了xxx功能。",
+  "downloadUrl": "http://your-server.com/updates/app-v1.1.0.zip",
+  "forceUpdate": false
+}
